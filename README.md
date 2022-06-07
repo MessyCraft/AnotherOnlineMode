@@ -1,4 +1,4 @@
-# <p style="text-align: center"> AnotherOnlineMode </p>
+# AnotherOnlineMode 
 ###### A BungeeCord plugin of checking players' account.
 
 ---
