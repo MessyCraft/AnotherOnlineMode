@@ -1,0 +1,4 @@
+name: AnotherOnlineMode
+version: 0.0.2
+main: com.github.messycraft.anotheronlinemode.AnotherOnlineMode
+description: A plugin of checking players' account.
