@@ -1,6 +1,6 @@
 <div align="middle">
     <h1>AnotherOnlineMode</h1>
-    <h2>A Bungeecord plugin of checking players' account. </h2>
+    <h3>A Bungeecord plugin of checking players' account. </h3>
 </div>
 
 ---
